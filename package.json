@@ -1,6 +1,11 @@
 {
   "name": "Travel2021",
   "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "keywords": ["Test", "Training"],
+  "author": "Randall Ijams",
+  "license": "ISC",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Lladnari/Travel2021.git"
